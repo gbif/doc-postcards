@@ -1,1 +1,2 @@
-
+Data Use Club
+The GBIF Data Use Club empowers data users around the world to share the knowledge and skills needed to unlock the full potential of FAIR and open data about biodiversity.
