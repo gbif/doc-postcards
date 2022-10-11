@@ -1,1 +1,2 @@
-
+Conservation
+To track state of the world's biodiversity, conservation pracititioners rely on FAIR and open data from the GBIF network to assess species extinction risk, identify and conserve key biodiversity areas, and monitor invasive species.
