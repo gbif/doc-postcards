@@ -1,1 +1,2 @@
-
+Climate
+Biodiversity data from the GBIF network is an essential input for understanding the intensifying impacts of climate change and for creating adaptation and protection strategies for life on Earth.
