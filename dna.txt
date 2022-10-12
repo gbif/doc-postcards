@@ -1,1 +1,2 @@
-
+DNA
+DNA-derived occurrences on GBIF reuse and extend metagenomic data on wild species, increasing FAIR and open data on biodiversity while offering a more complete and inclusive picture of life on Earth.
