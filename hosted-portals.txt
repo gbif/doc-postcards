@@ -1,1 +1,2 @@
-
+Hosted portals
+Hosted portals enable GBIF participants and data publishers to showcase their work and make it easy to share relevant biodiversity data with targeted geographic, taxonomic or thematic communities.

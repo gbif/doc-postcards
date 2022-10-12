@@ -1,1 +1,2 @@
-
+GBIF Registry of Scientific Collections
+GRSciColl provides a comprehensive, community-curated clearing house of information and machine-readable identifiers for scientific collections and their home institutions.

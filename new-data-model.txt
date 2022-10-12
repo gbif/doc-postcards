@@ -1,1 +1,2 @@
-
+New data model
+How can we better represent richer, more complex types of biodiversity data? Help us explore a common unified data model that could expand data-publishing capabilities while evolving the Darwin Core standard.
